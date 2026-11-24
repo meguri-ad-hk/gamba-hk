@@ -1,0 +1,26 @@
+﻿image_index,placement,path,recommended_ratio,replacement_rule
+0,Official header/footer logo,assets/images/brand/gamba-logo.png,original transparent PNG,replace file; preserve stable path
+1,FHJ carousel slide 1,assets/images/work/fhj/fhj-01-tram.webp,16:9,replace file; preserve stable path
+2,FHJ carousel slide 2,assets/images/work/fhj/fhj-02-campaign-photography.webp,16:9,replace file; preserve stable path
+3,FHJ carousel slide 3,assets/images/work/fhj/fhj-03-digital-campaign.webp,16:9,replace file; preserve stable path
+4,FHJ carousel slide 4,assets/images/work/fhj/fhj-04-promotional-materials.webp,16:9,replace file; preserve stable path
+5,FHJ carousel slide 5,assets/images/work/fhj/fhj-05-event.webp,16:9,replace file; preserve stable path
+6,Ballyhoo carousel slide 1,assets/images/work/ballyhoo/ballyhoo-01-mtr-station.webp,16:9,replace file; preserve stable path
+7,Ballyhoo carousel slide 2,assets/images/work/ballyhoo/ballyhoo-02-escalator.webp,16:9,replace file; preserve stable path
+8,Ballyhoo carousel slide 3,assets/images/work/ballyhoo/ballyhoo-03-campaign-artwork.webp,16:9,replace file; preserve stable path
+9,Ballyhoo carousel slide 4,assets/images/work/ballyhoo/ballyhoo-04-station-network.webp,16:9,replace file; preserve stable path
+10,Ballyhoo carousel slide 5,assets/images/work/ballyhoo/ballyhoo-05-media-context.webp,16:9,replace file; preserve stable path
+11,Active services image: Media Management,assets/images/services/service-media-management-01.webp,16:9,replace file; preserve stable path
+12,Services gallery slide 1: Media Management,assets/images/services/service-media-management-01.webp,16:9,replace file; preserve stable path
+13,Creative & Production,assets/images/services/service-creative-production-01.webp,16:9,replace file; preserve stable path
+14,Social Media Management,assets/images/services/service-social-media-management-01.webp,16:9,replace file; preserve stable path
+15,Event & Brand Activation,assets/images/services/service-event-brand-activation-01.webp,16:9,replace file; preserve stable path
+16,Influencer Marketing,assets/images/services/service-influencer-marketing-01.webp,16:9,replace file; preserve stable path
+17,Digital Marketing,assets/images/services/service-digital-marketing-01.webp,16:9,replace file; preserve stable path
+18,Client logo,assets/images/clients/client-tycoon.png,original transparent PNG,replace file; preserve stable path
+19,Client logo,assets/images/clients/client-perface.png,original transparent PNG,replace file; preserve stable path
+20,Client logo,assets/images/clients/client-hk-tramways.png,original transparent PNG,replace file; preserve stable path
+21,Client logo,assets/images/clients/client-life-young.png,original transparent PNG,replace file; preserve stable path
+22,Client logo,assets/images/clients/client-dup.png,original transparent PNG,replace file; preserve stable path
+23,Client logo,assets/images/clients/client-southern-district-health-centre.png,original transparent PNG,replace file; preserve stable path
+24,Official header/footer logo,assets/images/brand/gamba-logo.png,original transparent PNG,replace file; preserve stable path
